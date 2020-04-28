@@ -1,14 +1,5 @@
-var s = document.createElement('script');
-s.src = chrome.extension.getURL('pageScript.js');
-(document.head || document.documentElement).appendChild(s);
-//s.parentNode.removeChild(s);
-      
-let event = new CustomEvent('GET_DUCK');
-window.dispatchEvent(event);
-
 window.addEventListener('message', function receiveDuck(event) {
    if(event.data.action === 'GOT_DUCK') {
-      //window.removeEventListener('message', receiveDuck, false);
       const div = document.createElement('div');
       document.body.appendChild(div);
       
@@ -20,7 +11,7 @@ window.addEventListener('message', function receiveDuck(event) {
          div.innerText = "szpieg niezanihilowany";
          div.style.backgroundColor = "#de2c2c";
       }
-   
+      
       div.style.position = "fixed";
       div.style.bottom = "10%";
       div.style.left = "50%";
@@ -47,3 +38,13 @@ window.addEventListener('message', function receiveDuck(event) {
       }, 1500);
    }
 }, false);
+
+
+chrome.storage.local.get('state', function({state}){
+   console.log(state);
+   if(state){
+      var s = document.createElement('script');
+      s.src = chrome.extension.getURL('pageScript.js');
+      (document.head || document.documentElement).appendChild(s);
+   } 
+});
