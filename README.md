@@ -21,5 +21,4 @@ Aktualnie wspierane przeglądarki:
 
 ## Aktualizacje
 Gdy dostępna będzie nowsza wersja wtyczki niż ta, która jest zainstalowana u Ciebie w przeglądarce, pojawi się opcja "update available". By być pewnym działania wtyczki należy wtedy pobrać najnowszą wersje z repozytorium. 
-
 ![screen1](./assets/screen1.png)
