@@ -24,6 +24,13 @@ body{
   color: rgb(133, 228, 133);
 }
 
+#update{
+  color: white;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: .2em;
+}
+
 a{
   margin-top: auto;
   font-size: 1.5em;
