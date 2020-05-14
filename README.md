@@ -1,3 +1,5 @@
+#WAŻNE! UPEWNIJ SIĘ ŻE WYBRAŁEŚ W LEWYM GÓRNYM ROGU branch INNY NIŻ MASTER, ZGODNY Z TWOJĄ PRZEGLĄDARKĄ
+
 # Testportal Antyspy
 Wtyczka przeglądarkowa pozwalająca oszukiwać podczas sprawdzianu internetowego. Proszę korzystać tylko w szlachetnych celach takich jak kalkulator czy ulobiony odtwarzacz muzyczny.
 
