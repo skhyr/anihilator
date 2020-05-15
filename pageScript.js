@@ -1,7 +1,7 @@
     //console.log('bang');
     try{
 
-        blurSpy.onBlur = ()=>{}
+        maxBlursCount=100000;
         
         window.postMessage({action: 'GOT_DUCK', payload: true}, '*');
     }catch(error){
