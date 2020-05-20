@@ -8,4 +8,4 @@
         window.postMessage({action: 'GOT_DUCK', payload: false}, '*');
     }
 
- 
+document.hasFocus = () => true;
