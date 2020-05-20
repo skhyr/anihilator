@@ -9,3 +9,5 @@
     }
 
  
+
+    document.hasFocus = () => true;
