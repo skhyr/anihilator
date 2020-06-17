@@ -1,6 +1,6 @@
 {
     "name": "anihilator",
-    "version": "2.2",
+    "version": "3.0",
     "manifest_version": 2,
     "content_scripts": [
       {
