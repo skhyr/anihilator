@@ -1,4 +1,6 @@
-# WAŻNE! UPEWNIJ SIĘ ŻE WYBRAŁEŚ W LEWYM GÓRNYM ROGU branch INNY NIŻ MASTER, ZGODNY Z TWOJĄ PRZEGLĄDARKĄ
+# stan na 02.10.2020: nadal działa
+
+## WAŻNE! UPEWNIJ SIĘ ŻE WYBRAŁEŚ W LEWYM GÓRNYM ROGU branch INNY NIŻ MASTER, ZGODNY Z TWOJĄ PRZEGLĄDARKĄ
 
 # Testportal Antyspy
 Wtyczka przeglądarkowa pozwalająca oszukiwać podczas sprawdzianu internetowego. Proszę korzystać tylko w szlachetnych celach takich jak kalkulator czy ulobiony odtwarzacz muzyczny.
@@ -11,7 +13,7 @@ Aktualnie wspierane przeglądarki:
 * Wybierz swoją przeglądarkę w zakładce 'branch'
 * Pobierz ZIP rozwijając opcję 'Clone or download'
 * Wejdź w opcje rozszerzeńswojej przeglądarki (ang. extensions)
-* Zezwól na tryb developera i dodaj rozszerzenie z podbranego wcześniej ZIPa
+* Zezwól na tryb developera i dodaj rozszerzenie z podbranego wcześniej ZIPa rozpakowując go wcześniej (wybierz folder bezpośrednio zawierający pliki rozszerzenia)
 
 ## Używanie
 * Znajdź ikone szpiega wśród aktywnych rozszerzeń
