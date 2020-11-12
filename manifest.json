@@ -5,7 +5,8 @@
     "content_scripts": [
       {
         "matches": [
-          "*://*.testportal.pl/*"
+          "*://*.testportal.pl/*",
+          "*://*.testportal.net/*"
         ],
         "js": ["content.js"] 
         }],
