@@ -1,4 +1,4 @@
-# stan na 02.10.2020: nadal działa
+# stan na 16.11.2020: nadal działa
 
 ## WAŻNE! UPEWNIJ SIĘ ŻE WYBRAŁEŚ W LEWYM GÓRNYM ROGU branch INNY NIŻ MASTER, ZGODNY Z TWOJĄ PRZEGLĄDARKĄ
 
