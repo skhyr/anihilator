@@ -1,10 +1,9 @@
 stan na 18.11.2020: nadal działa
 
 # Testportal Anihilator
-Wtyczka przeglądarkowa pozwalająca 
+Wtyczka przeglądarkowa pozwalająca ominąć funckję 'uczciwy rozwiązujący' a TestPortalu, która uniemożliwoa dezaktywacje karty sprawdzianu podczas jego trwania. 
 
 ## Instalacja
-* Wybierz swoją przeglądarkę w zakładce 'branch'
 * Pobierz ZIP rozwijając opcję 'Clone or download'
 * Wejdź w opcje rozszerzeńswojej przeglądarki (ang. extensions)
 * Zezwól na tryb developera i dodaj rozszerzenie z podbranego wcześniej ZIPa rozpakowując go wcześniej (wybierz folder bezpośrednio zawierający pliki rozszerzenia)
