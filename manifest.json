@@ -1,6 +1,6 @@
 {
     "name": "anihilator",
-    "version": "3.1",
+    "version": "3.5",
     "manifest_version": 2,
     "content_scripts": [
       {
@@ -13,7 +13,7 @@
         
     "web_accessible_resources": ["pageScript.js"],
     "browser_action":{
-      "default_title": "Testportal Antyspy",
+      "default_title": "Testportal Anihilator",
       "default_popup": "popup.html"
     },
     "permissions": [
