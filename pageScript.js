@@ -10,7 +10,7 @@ RegExp.prototype.test = function (s) {
 	var r = original.call(this, s);
 	return r;
 };
-document.hasFocus = function () {return true;};
+document.hasFocus = () => true;
 
 	window.postMessage({action: 'GOT_DUCK', payload: true}, '*');
 }catch(error){
