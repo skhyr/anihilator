@@ -7,8 +7,8 @@
         "matches": [
           "*://*.testportal.pl/*",
           "*://*.testportal.net/*",
-          "://.teams.microsoft.com/",
-          "://.teams.testportal.net/"
+          "*://*.teams.microsoft.com/*",
+          "*://*.teams.testportal.net/*"
         ],
         "js": ["content.js"] 
         }],
