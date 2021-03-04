@@ -1,4 +1,4 @@
-stan na 18.11.2020: nadal działa
+stan na 04.03.2021: nadal działa
 
 # Testportal Anihilator
 Wtyczka przeglądarkowa pozwalająca ominąć funckję 'uczciwy rozwiązujący' a TestPortalu, która uniemożliwoa dezaktywacje karty sprawdzianu podczas jego trwania. 
