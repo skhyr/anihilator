@@ -31,6 +31,13 @@ body{
   margin-top: .2em;
 }
 
+#timeheader{
+  margin-top: .6em;
+  margin-bottom: .4em;
+  color: white;
+  font-size: 1.7em;
+}
+
 a{
   margin-top: auto;
   font-size: 1.5em;
@@ -38,7 +45,7 @@ a{
   text-decoration: none;
   border-bottom: .1em solid transparent;
   transition: border-bottom ease-in-out .5s;
-  padding-bottom: -.3em;
+  padding-bottom: .4em;
 }
 a:link {
   text-decoration: none;
@@ -60,6 +67,7 @@ a:active {
     display: block;
     width: 6em;
     height: 3.4em;
+    margin-bottom: 2em;
 }
 
   /*SLIDER STYLE*/
@@ -76,6 +84,7 @@ a:active {
     right: 0;
     bottom: 0;
     background-color: var(--sliderColor);
+    height: 3.4em;
   }
   .slider:before {
     position: absolute;

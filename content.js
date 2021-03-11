@@ -48,3 +48,12 @@ chrome.storage.local.get('state', function({state}){
       (document.head || document.documentElement).appendChild(s);
    } 
 });
+
+chrome.storage.local.get('time', function({time}){
+   console.log(time);
+   if(time){
+      var s = document.createElement('script');
+      s.src = chrome.extension.getURL('timeScript.js');
+      (document.head || document.documentElement).appendChild(s);
+   } 
+});
