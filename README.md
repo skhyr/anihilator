@@ -18,7 +18,9 @@ Wtyczka przeglądarkowa pozwalająca ominąć funckję 'uczciwy rozwiązujący' 
 
 ### Limit czasu
 Aby włączyć funkcję omijania limitu czasu wystarczy kliknąć drugi suwak.
-     ![screen2](./assets/screen2.png)
+     
+![screen2](./assets/screen2.png)
+     
 Dzięki temu, limit czasu na test zostaje wyłączony, a nauczyciel nie zostaje o tym powiadomiony.
 
 ## Aktualizacje
