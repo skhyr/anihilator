@@ -12,7 +12,7 @@
         "js": ["content.js"] 
         }],
         
-    "web_accessible_resources": ["pageScript.js"],
+    "web_accessible_resources": ["pageScript.js", "timeScript.js"],
     "browser_action":{
       "default_title": "Testportal Anihilator",
       "default_popup": "popup.html"
